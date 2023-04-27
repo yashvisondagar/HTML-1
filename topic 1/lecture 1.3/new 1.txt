@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> image and anchor tags </title>
+</head>
+<body> 
+<img src="https://images.pexels.com/photos/5847763/pexels-photo-5847763.jpeg?cs=srgb&dl=pexels-charles-parker-5847763.jpg&fm=jpg&_gl=1*1ah9tzb*_ga*NjczOTIxNDY4LjE2ODEyOTYwNjI.*_ga_8JE65Q40S6*MTY4MTI5NjA2My4xLjEuMTY4MTI5NjEzOC4wLjAuMA.. width="500"> 
+
+</body></html>
+
